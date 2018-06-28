@@ -8,7 +8,7 @@ settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
 settings_basename = 'regolamento-funzionamento-urp-comune-palermo'
-settings_file_name = 'index'
+settings_file_name = 'regolamento-funzionamento-urp-comune-palermo'
 
 # -- No need to change below here
 
